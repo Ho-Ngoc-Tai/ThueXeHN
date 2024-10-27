@@ -1,2 +1,0 @@
-# dastore-management
- 
